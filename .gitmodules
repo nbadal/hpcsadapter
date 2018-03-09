@@ -1,0 +1,4 @@
+[submodule "kicad-libs"]
+	path = kicad-libs
+	url = https://gitlab.com/salfter/kicad-libs
+	branch = master
