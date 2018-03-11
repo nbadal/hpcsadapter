@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name conns)(type KiCad)(uri "$(KIPRJMOD)/kicad-libs/conns.pretty")(options "")(descr ""))
+  (lib (name TPS54327DDAR)(type KiCad)(uri "$(KIPRJMOD)/kicad-libs/TPS54327DDAR.pretty")(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri "$(KIPRJMOD)/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name ind_bourns_sdr0805)(type KiCad)(uri "$(KIPRJMOD)/kicad-libs/ind_bourns_sdr0805.pretty")(options "")(descr ""))
+  (lib (name oshw-logo)(type KiCad)(uri "$(KIPRJMOD)/kicad-libs/oshw-logo.pretty")(options "")(descr ""))
+)
