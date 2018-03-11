@@ -4,4 +4,4 @@
 	branch = master
 [submodule "digikey-kicad-library"]
 	path = digikey-kicad-library
-	url = https://github.com/digikey/digikey-kicad-library
+	url = https://gitlab.com/salfter/digikey-kicad-library
