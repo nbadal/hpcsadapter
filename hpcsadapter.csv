@@ -1,7 +1,7 @@
 Title,HP Common Slot Power Supply Adapter
 Revision,0.1
 Date,2018-03-09
-Generated,Sun 11 Mar 2018 03:44:56 PM PDT
+Generated,Thu 15 Mar 2018 09:56:10 PM PDT
 Company,Scott Alfter
 Comment 1,
 Comment 2,
@@ -12,28 +12,28 @@ Total Unique Parts,18
 
 
 
-Ref,Qty,Value,Footprint,Category,DK_Datasheet_Link,DK_Detail_Page,Description,DigiKey_PN,Family,Manufacturer,Mfr_PN,Status,
-C1 ,1,22u,Capacitors_SMD:C_0805, , , , ,311-1903-1-ND, ,Yageo,CC0805MKX5R8BB226, 
-C2 ,1,1u,Capacitors_SMD:C_0805, , , , ,311-1456-1-ND, ,Yageo,CC0805KKX7R8BB105, 
-C3 ,1,0.0033u,Capacitors_SMD:C_0805, , , , ,311-1131-1-ND, ,Yageo,CC0805KRX7R9BB332, 
-C4 ,1,0.1u,Capacitors_SMD:C_0805, , , , ,311-1141-1-ND, ,Yageo,CC0805KRX7R8BB104, 
-C5 ,1,10p,Capacitors_SMD:C_0805, , , , ,311-1099-1-ND, ,Yageo,CC0805JRNPO9BN100, 
-C6 ,1,47u,Capacitors_SMD:C_0805, , , , ,587-5465-1-ND, ,Taiyo Yuden,LMK212BBJ476MG-T, 
-J2 ,1,1761469-1,conns:EdgeSocket-64-100mil-TE_1761469-1, , , , ,1761469-1-ND, ,TE,1761469-1, 
-J1 ,1,Conn_01x08,conns:Barrier-Block-8pos-TH, , , , ,ED2950-ND, ,On Shore Technology Inc.,OSTYK42108030, 
-J3 ,1,73725-0110BLF,digikey-footprints:USB_A_Female_Vertical_RA_73725-0110BLF,Connectors  Interconnects,http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/73725.pdf,/product-detail/en/amphenol-fci/73725-0110BLF/609-1041-ND/1001355,CONN RCPT USB TYPE A FLAG PCB,609-1041-ND,USB  DVI  HDMI Connectors,Amphenol FCI,73725-0110BLF,Active
-L1 ,1,3.3u,ind_bourns_sdr0805:SDR0805-3R3ML, , , , ,SDR0805-3R3MLCT-ND, ,Bourns,SDR0805-3R3ML, 
-R1 ,1,22k,Resistors_SMD:R_0805, , , , ,311-22.0KCRCT-ND, ,Yageo,RC0805FR-0722KL, 
-R2 ,1,10.2k,Resistors_SMD:R_0805, , , , ,311-10.2KCRCT-ND, ,Yageo,RC0805FR-0710K2L, 
-R3 ,1,133k,Resistors_SMD:R_0805, , , , ,311-133KCRCT-ND, ,Yageo,RC0805FR-07133KL, 
-R4 ,1,24.0k,Resistors_SMD:R_0805, , , , ,311-24.0KCRCT-ND, ,Yageo,RC0805FR-0724KL, 
-R5 R7 ,2,43k,Resistors_SMD:R_0805, , , , ,311-43.0KCRCT-ND, ,Yageo,RC0805FR-0743KL, 
-R6 R8 ,2,51k,Resistors_SMD:R_0805, , , , ,311-51.0KCRCT-ND, ,Yageo,RC0805FR-0751KL, 
-S1 ,1,100SP1T1B4M2QE,digikey-footprints:Toggle_Switch_100SP1T1B4M2QE,Switches,http://spec_sheets.e-switch.com/specs/T111597.pdf,/product-detail/en/e-switch/100SP1T1B4M2QE/EG2355-ND/378824,SWITCH TOGGLE SPDT 5A 120V,EG2355-ND,Toggle Switches,E-Switch,100SP1T1B4M2QE,Active
-U1 ,1,TPS54327,TPS54327DDAR:TPS54327DDAR, , , , ,296-28061-1-ND, ,Texas Instruments,TPS54327DDAR, 
+Ref,Qty,Value,Footprint,Category,DK_Datasheet_Link,DK_Detail_Page,Description,Family,MFR,MPN,SPN,SPR,Status,
+C1 ,1,22u,Capacitors_SMD:C_0805, , , , , ,Yageo,CC0805MKX5R8BB226,311-1903-1-ND,DigiKey, 
+C2 ,1,1u,Capacitors_SMD:C_0805, , , , , ,Yageo,CC0805KKX7R8BB105,311-1456-1-ND,DigiKey, 
+C3 ,1,0.0033u,Capacitors_SMD:C_0805, , , , , ,Yageo,CC0805KRX7R9BB332,311-1131-1-ND,DigiKey, 
+C4 ,1,0.1u,Capacitors_SMD:C_0805, , , , , ,Yageo,CC0805KRX7R8BB104,311-1141-1-ND,DigiKey, 
+C5 ,1,10p,Capacitors_SMD:C_0805, , , , , ,Yageo,CC0805JRNPO9BN100,311-1099-1-ND,DigiKey, 
+C6 ,1,47u,Capacitors_SMD:C_0805, , , , , ,Taiyo Yuden,LMK212BBJ476MG-T,587-5465-1-ND,DigiKey, 
+J2 ,1,1761469-1,conns:EdgeSocket-64-100mil-TE_1761469-1, , , , , ,TE,1761469-1,1761469-1-ND,DigiKey, 
+J1 ,1,OSTYK42108030,conns:Barrier-Block-8pos-TH, , , , , ,On Shore Technology Inc.,OSTYK42108030,ED2950-ND,DigiKey, 
+J3 ,1,73725-0110BLF,digikey-footprints:USB_A_Female_Vertical_RA_73725-0110BLF,Connectors  Interconnects,http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/73725.pdf,/product-detail/en/amphenol-fci/73725-0110BLF/609-1041-ND/1001355,CONN RCPT USB TYPE A FLAG PCB,USB  DVI  HDMI Connectors,Amphenol FCI,73725-0110BLF,609-1041-ND,DigiKey,Active
+L1 ,1,3.3u,ind_bourns_sdr0805:SDR0805-3R3ML, , , , , ,Bourns,SDR0805-3R3ML,SDR0805-3R3MLCT-ND,DigiKey, 
+R1 ,1,22k,Resistors_SMD:R_0805, , , , , ,Yageo,RC0805FR-0722KL,311-22.0KCRCT-ND,DigiKey, 
+R2 ,1,10.2k,Resistors_SMD:R_0805, , , , , ,Yageo,RC0805FR-0710K2L,311-10.2KCRCT-ND,DigiKey, 
+R3 ,1,133k,Resistors_SMD:R_0805, , , , , ,Yageo,RC0805FR-07133KL,311-133KCRCT-ND,DigiKey, 
+R4 ,1,24.0k,Resistors_SMD:R_0805, , , , , ,Yageo,RC0805FR-0724KL,311-24.0KCRCT-ND,DigiKey, 
+R5 R7 ,2,43k,Resistors_SMD:R_0805, , , , , ,Yageo,RC0805FR-0743KL,311-43.0KCRCT-ND,DigiKey, 
+R6 R8 ,2,51k,Resistors_SMD:R_0805, , , , , ,Yageo,RC0805FR-0751KL,311-51.0KCRCT-ND,DigiKey, 
+S1 ,1,100SP1T1B4M2QE,digikey-footprints:Toggle_Switch_100SP1T1B4M2QE,Switches,http://spec_sheets.e-switch.com/specs/T111597.pdf,/product-detail/en/e-switch/100SP1T1B4M2QE/EG2355-ND/378824,SWITCH TOGGLE SPDT 5A 120V,Toggle Switches,E-Switch,100SP1T1B4M2QE,EG2355-ND,DigiKey,Active
+U1 ,1,TPS54327,TPS54327DDAR:TPS54327DDAR, , , , , ,Texas Instruments,TPS54327DDAR,296-28061-1-ND,DigiKey, 
 
 
 
 
 BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
-Generated Sun 11 Mar 2018 03:44:56 PM PDT
+Generated Thu 15 Mar 2018 09:56:10 PM PDT

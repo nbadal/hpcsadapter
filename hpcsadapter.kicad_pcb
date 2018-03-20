@@ -68,7 +68,7 @@
     (pad_size 1.524 1.524)
     (pad_drill 0.762)
     (pad_to_mask_clearance 0.2)
-    (aux_axis_origin 0 0)
+    (aux_axis_origin 105.41 111.125)
     (visible_elements FFFEFF7F)
     (pcbplotparams
       (layerselection 0x010fc_80000001)
